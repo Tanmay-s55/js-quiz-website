@@ -1,7 +1,7 @@
 const quizQues = [
     {
         question: "Q1: Inside which HTML element do we put the JavaScript?",
-        a: "<sciript>",
+        a: "<script>",
         b: "<js>",
         c: "<scripting>",
         d: "<javascript>",
@@ -29,7 +29,7 @@ const quizQues = [
         b: "//",
         c: "$$",
         d: "!-- --",
-        ans: "ans1"
+        ans: "ans2"
     }
 ];
 
